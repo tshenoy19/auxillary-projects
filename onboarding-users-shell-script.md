@@ -1,3 +1,4 @@
+
 ## Onboarding Users onto Server using Shell Script
 
 ### The objective of this project is to create a shell script that can read a .csv file of names of users to be onboarded.
