@@ -30,3 +30,9 @@ Liz
 Rachel
 Rob
 ```
+##### Create a group called 'developer' 
+
+```
+sudo groupadd developers
+```
+
