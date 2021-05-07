@@ -58,8 +58,6 @@ PUBLIC_KEY_FILE=authorized_keys
 # Creating a temporary password for the users and assigning a variable
 USER_PASSWORD=password
 
-
-
 # check if group developer exists
 if [ $(getent group developer) ];
 then
